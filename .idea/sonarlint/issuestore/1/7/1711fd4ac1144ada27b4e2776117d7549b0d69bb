@@ -1,0 +1,14 @@
+
+k	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æş¿Øùÿÿÿÿ
+f	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Ú¿¹
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â×„–
+M
+java:S2589$"7Remove this expression which always evaluates to "true"(ÿÉÑ
+S
+java:S1854'"8Remove this useless assignment to local variable "flag".(ÚÄ¦òøÿÿÿÿ
+E
+java:S1197."*Move the array designators [] to the type.(´ø¬ğûÿÿÿÿ
+E	java:S1060"+Replace this use of System.out by a logger.(´ÓôÑúÿÿÿÿ
+E
+java:S11972"*Move the array designators [] to the type.(Æş¿Øùÿÿÿÿ
+@	java:S1064"+Replace this use of System.out by a logger.(ĞÀšÃ
