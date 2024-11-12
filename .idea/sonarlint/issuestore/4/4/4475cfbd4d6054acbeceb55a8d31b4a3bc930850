@@ -1,0 +1,16 @@
+
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Ûşûÿÿÿÿ
+f	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÑ¿
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹’„öûÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ÿ¨ÉÛ
+\
+java:S1126 "AReplace this if-then-else statement by a single return statement.(şÑó¢øÿÿÿÿ
+E
+java:S11973"*Move the array designators [] to the type.(÷ıĞÿÿÿÿÿ
+E
+java:S11974"*Move the array designators [] to the type.(¢İÁ‘ıÿÿÿÿ
+@	java:S1069"+Replace this use of System.out by a logger.(Ùª˜ñ
+?	java:S106:"+Replace this use of System.out by a logger.(“‘œ
+@
+java:S1068"*Remove this unused "LOGGER" private field.(Ÿ¨ÉÛ
