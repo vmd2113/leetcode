@@ -1,0 +1,30 @@
+
+z
+java:S1488;"_Immediately return this expression instead of assigning it to the temporary variable "element".(ÇÛ¬Àÿÿÿÿÿ
+x
+java:S1488D"cImmediately return this expression instead of assigning it to the temporary variable "sortedArray".(éÌØO
+@
+java:S1197"*Move the array designators [] to the type.(­âšÙ
+@
+java:S1197"*Move the array designators [] to the type.(­âšÙ
+@
+java:S1197"*Move the array designators [] to the type.(Ü‹ÆÔ
+V	java:S125&"<This block of commented-out lines of code should be removed.(¯•Üìûÿÿÿÿ
+E
+java:S1197B"*Move the array designators [] to the type.(Ëö×¥ùÿÿÿÿ
+E
+java:S1197C"*Move the array designators [] to the type.(œ×Áøùÿÿÿÿ
+?
+java:S1197D"*Move the array designators [] to the type.(éÌØO
+@
+java:S1197J"*Move the array designators [] to the type.(¹ÒÕ¹
+E
+java:S1197T"*Move the array designators [] to the type.(¥ÿç£ÿÿÿÿÿ
+E	java:S106V"+Replace this use of System.out by a logger.(¥ÎÛÙüÿÿÿÿ
+E	java:S106X"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+E
+java:S1197]"*Move the array designators [] to the type.(ÄÙŒÙıÿÿÿÿ
+E	java:S106`"+Replace this use of System.out by a logger.(—©èÿüÿÿÿÿ
+E
+java:S1197c"*Move the array designators [] to the type.(òù–Ñùÿÿÿÿ
+@	java:S106e"+Replace this use of System.out by a logger.(²âƒ™
